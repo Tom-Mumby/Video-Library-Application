@@ -1,0 +1,1 @@
+"""Contains classes which set configuration states for the GUI. These include: colours, fonts, elements sizes, and codes for any keys pressed"""

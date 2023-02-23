@@ -1,0 +1,8 @@
+/data/thumbnails/
+/data/base_directories.txt
+/data/folder_structure.pickle
+data/watched_list.json
+*.pyc
+*.pyo
+__pycache__/
+README.md
