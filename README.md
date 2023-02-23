@@ -50,9 +50,6 @@ The application is designed to simulate folder structures however they are organ
 
 An example a of compatible structure is given below. The folders "Nature Clips" and "Public Domain" serve as the categories.
 
-!["Example folder structure"](docs/interface_images/folder_structure.jpg "folder structure")
-
-
 ### Setting Folder Locations
 The top-level folders, which will become the video categories, are added as lines to a file [database_directories.txt](data/base_directories.txt). After this is done, you can run [main.py](main.py) to scan for video files. Alternatively, when running for the first time the application can guide you through adding these folders.
 
