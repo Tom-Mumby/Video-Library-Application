@@ -3,6 +3,9 @@ A python application which uses the tkinter binding to enable selecting and play
 
 https://user-images.githubusercontent.com/126174941/220942268-6e789f40-f0dd-4e60-a39e-445f597f0094.mp4
 
+The project is structured as follows.
+!["Project structure"](docs/interface_images/project_structure.png "Project structure")
+
 ## Prerequisites
 Before the application runs, [FFmpeg](https://ffmpeg.org/) and [VLC](https://www.videolan.org/) must be installed. These are used to create the video thumbnails and play the videos respectively. On Debian-based Linux distributions (e.g. Ubuntu and Raspberry Pi OS) these can installed with:
 ```
